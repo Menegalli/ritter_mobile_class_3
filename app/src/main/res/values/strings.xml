@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Atividade 3 Mobile</string>
+    <!-- Strings related to login -->
+    <string name="login_email">Email</string>
+    <string name="login_password">Senha</string>
+    <string name="confirm_password">Confirme sua Senha</string>
+    <string name="action_sign_in">Entrar ou se Registrar</string>
+    <string name="action_sign_up">Registrar-se</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="welcome">"Bem vindo!"</string>
+    <string name="invalid_username">Nome de usuário inválido!</string>
+    <string name="invalid_password">Senha precisa ser maior que 5 caractéres</string>
+    <string name="login_failed">"Login falhou"</string>
+    <string name="uniritter_mobile_class">UniRitter Mobile Class</string>
+    <string name="logo_ritter">Logo da UniRitter</string>
+    <string name="posts">Posts</string>
+    <string name="todos">ToDos</string>
+    <string name="albums">Albums</string>
+    <string name="get">GET</string>
+</resources>
